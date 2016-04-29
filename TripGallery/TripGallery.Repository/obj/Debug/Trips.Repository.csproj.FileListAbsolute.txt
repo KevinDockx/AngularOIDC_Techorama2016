@@ -1,0 +1,9 @@
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Trips.Repository.dll
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Trips.Repository.pdb
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Techorama\Trips\Trips.Repository\obj\Debug\Trips.Repository.dll
+C:\Techorama\Trips\Trips.Repository\obj\Debug\Trips.Repository.pdb
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Techorama\Trips\Trips.Repository\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Techorama\Trips\Trips.Repository\obj\Debug\Trips.Repository.csprojResolveAssemblyReference.cache

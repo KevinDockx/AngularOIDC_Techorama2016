@@ -1,0 +1,4 @@
+C:\Techorama\Trips\Trips.DTO\bin\Debug\Trips.DTO.dll
+C:\Techorama\Trips\Trips.DTO\bin\Debug\Trips.DTO.pdb
+C:\Techorama\Trips\Trips.DTO\obj\Debug\Trips.DTO.dll
+C:\Techorama\Trips\Trips.DTO\obj\Debug\Trips.DTO.pdb

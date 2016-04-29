@@ -1,0 +1,22 @@
+﻿
+    <h2 class="leftMarginDefault">My Trip Gallery</h2>
+
+    <div ng-if="(vm.mgr.profile.role === 'PayingUser') "class="btn btn-default leftMarginDefault bottomMarginDefault">
+        <a href="#/trips/create">Add a Trip</a>
+    </div>
+ 
+    <div class="container">     
+        <div class="col-md-6 bottomMarginDefault" ng-repeat="trip in vm.trips">
+
+            <div class="pull-left rightMarginDefault">
+                <img class="tripImage img-circle" ng-src="{{trip.mainPictureUri}}" />               
+            </div>
+
+            <div>
+                <div class="h3">{{trip.name}}</div>
+                <div>{{trip.description}}</div>
+            </div>         
+                    
+        </div>            
+    </div>
+

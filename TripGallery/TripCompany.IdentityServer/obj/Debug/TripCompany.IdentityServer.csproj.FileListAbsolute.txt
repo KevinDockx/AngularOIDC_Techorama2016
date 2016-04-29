@@ -1,0 +1,103 @@
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.pdb
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.pdb
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.xml
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\bin\Thinktecture.IdentityServer3.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\TripGallery.Constants.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.xml
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll.config
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\TripCompany.IdentityServer.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Owin.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\IdentityServer3.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.csprojResolveAssemblyReference.cache
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripCompany.IdentityServer\obj\Debug\TripCompany.IdentityServer.pdb

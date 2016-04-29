@@ -1,0 +1,315 @@
+C:\Pluralsight\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.Constants.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\TripGallery.Constants.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.dll
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.pdb
+C:\Pluralsight\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.Constants.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.Constants.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\Thinktecture.IdentityServer3.AccessTokenValidation.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m05-openid-connect-client\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.Constants.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.Constants.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\oauth2-openidconnect-angular-aspnet\m07-advanced-topics\end\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.Constants.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.Constants.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\AngularSession\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\AngularSession\start\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\AutoMapper.Net4.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.API.dll.config
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.API.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.API.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\AutoMapper.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\IdentityModel.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Marvin.JsonPatch.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Newtonsoft.Json.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Owin.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Linq.Dynamic.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Cors.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.DTO.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.Repository.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.DTO.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\TripGallery.Repository.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\AutoMapper.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\AutoMapper.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\AutoMapper.Net4.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\IdentityModel.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\IdentityServer3.AccessTokenValidation.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.FileSystems.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\Newtonsoft.Json.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Net.Http.Formatting.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.Cors.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.Owin.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\bin\System.Web.Http.WebHost.xml
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.csprojResolveAssemblyReference.cache
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.dll
+C:\Pluralsight\AngularSession\start - Copy\TripGallery\TripGallery.API\obj\Debug\TripGallery.API.pdb

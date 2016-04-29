@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <script src="Scripts/oidc-token-manager.js"></script>
+    <script>
+
+        debugger;
+        var config = {
+            client_id: "tripgalleryimplicit",
+            redirect_uri:  window.location.protocol + "//" + window.location.host + "/callback.html",
+            authority: "https://localhost:44317/identity"
+        };
+
+        var mgr = new OidcTokenManager(config);
+
+        // process the token
+        mgr.processTokenCallbackAsync().then(function ()
+        {
+            window.location = window.location.protocol + "//" + window.location.host + "/";;
+        },
+        function (error)
+        {
+           alert("Problem Getting Token : " + (error.message || error));
+        });
+
+    </script>
+</body>
+</html>
